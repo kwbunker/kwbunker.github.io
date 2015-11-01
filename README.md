@@ -1,4 +1,4 @@
 
-Repository for github web pages:
+Repository for:
 
-http://kwbunker.github.io
+http://kristopherbunker.com
