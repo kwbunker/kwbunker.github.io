@@ -17,10 +17,7 @@ style: styles-6
 name: Kristopher Bunker
 tagline: Creative Hardware Prototyper
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
-commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
+summary: 'Summarise your career here.'
 
 #sidebar links
 email: kristopher.bunker@gmail.com
@@ -32,7 +29,7 @@ github: kwbunker
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
-#education_in_main: True
+education_in_main: True
 
 # Tracker
 #analytics: UA-83979019-1
