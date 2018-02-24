@@ -1,5 +1,5 @@
 # Site Settings
-title: My Resume
+title: Kristopher Bunker
 url: 'http://kristopherbunker.com'
 baseurl: '/kwbunker.github.io' #change it according to your repository name
 about: False # set to False or comment line if you want to remove the "How to use?" in the sidebar
@@ -15,7 +15,7 @@ style: styles-6
 
 #Profile information
 name: Kristopher Bunker
-tagline: R&D Engineer
+tagline: Creative Hardware Prototyper
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean
@@ -24,11 +24,11 @@ montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu
 
 #sidebar links
 email: kristopher.bunker@gmail.com
-phone: 303.315.7370
+#phone: 303.315.7370
 website: kristopherbunker.com #do not add http://
 linkedin: kwbunker
 github: kwbunker
-twitter: '@kris_bunker'
+#twitter: '@kris_bunker'
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
