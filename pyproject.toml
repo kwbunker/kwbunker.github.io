@@ -1,0 +1,14 @@
+[project]
+name = "kristopherbunker-site"
+version = "0.1.0"
+description = "Personal website static site generator"
+requires-python = ">=3.11"
+dependencies = [
+    "jinja2>=3.1",
+    "markdown>=3.5",
+]
+
+[dependency-groups]
+dev = [
+    "watchdog>=4.0",  # For live reload during development
+]
