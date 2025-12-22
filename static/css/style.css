@@ -52,14 +52,23 @@ body {
 .container {
     max-width: var(--max-width);
     margin: 0 auto;
-    padding: 2rem var(--spacing);
+    padding: 2rem var(--spacing) 4rem;
     width: 100%;
 }
 
 /* Hero/Header */
 .hero {
-    padding: 4rem 0 3rem;
+    padding: 4rem 0 2rem;
     text-align: center;
+}
+
+.headshot {
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-bottom: 1.5rem;
+    border: 3px solid var(--color-border);
 }
 
 .hero h1 {
@@ -88,6 +97,8 @@ body {
 .section {
     padding: 2.5rem 0;
     text-align: center;
+    border-top: 1px solid var(--color-border);
+    margin-top: 1rem;
 }
 
 .section h2 {
@@ -145,15 +156,6 @@ a:hover {
     border-color: var(--color-accent);
     color: var(--color-accent);
     transform: translateY(-1px);
-}
-
-/* Footer */
-footer {
-    margin-top: auto;
-    padding: 2rem var(--spacing);
-    text-align: center;
-    color: var(--color-muted);
-    font-size: 0.8rem;
 }
 
 /* Typography */

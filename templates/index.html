@@ -3,6 +3,7 @@
 {% block body %}
 <main class="container">
     <header class="hero">
+        <img src="img/headshot.jpg" alt="{{ site.title }}" class="headshot">
         <h1>{{ site.title }}</h1>
         {% if pages.intro %}
         <div class="intro">
@@ -47,8 +48,4 @@
         </div>
     </section>
 </main>
-
-<footer>
-    <p>&copy; {{ site.title }}</p>
-</footer>
 {% endblock %}
